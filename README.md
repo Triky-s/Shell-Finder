@@ -1,2 +1,3 @@
 # Shell-Finder-
-shell finder by Sam
+PHP SCRIPT 
+BY SAM TRIKY
