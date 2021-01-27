@@ -1,5 +1,8 @@
 # Shell-Finder-
 PHP SCRIPT 
-BY SAM TRIKY
-FEEL FREE TO USE THIS SCRIPT JUST COPY PASTE MY CODE ON PHP IDE AND OPEN IT ON UR TERMINAL 
-
+--------------------------------------------
+git clone https://github.com/SamDvl-07/Shell-Finder-/
+---------------------------------------------
+cd Shell-Finder-
+---------------------------------------------
+php Shell-Finder.php
