@@ -19,8 +19,6 @@ print "$cyan
  |__   |   | -_| | |  |   __| |   | . | -_|  _|
  |_____|_|_|___|_|_|  |__|  |_|_|_|___|___|_|  
                                               
-$white ==============================[$yellow V 1.0 $white ]========
-$cyan By$red   :$white Sam.Triky
 $cyan List$red :$white 1501 list
 $white ==============[$yellow Fuck ’Em All $white ]==============
 $cyan 01$red :$white Find Shell
@@ -91,11 +89,4 @@ if ($menu == '01' OR $menu == '1')
 if ($menu == '02' OR $menu == '2')
 {
     print "$yellow                                                
-  _____           _            _____             
- |     |___ _____|_|___ ___   |   __|___ ___ ___ 
- |   --| . |     | |   | . |  |__   | . | . |   |
- |_____|___|_|_|_|_|_|_|_  |  |_____|___|___|_|_|
-                       |___|                     
-$white";
-}
-?>
+
